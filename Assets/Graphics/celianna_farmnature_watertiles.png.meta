@@ -1,0 +1,3768 @@
+fileFormatVersion: 2
+guid: 2b11e3e2db199a84fa3c592de04f9833
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8476385808924403967
+    second: celianna_farmnature_watertiles_0
+  - first:
+      213: -2820086101888075164
+    second: celianna_farmnature_watertiles_1
+  - first:
+      213: 1032366458776734793
+    second: celianna_farmnature_watertiles_2
+  - first:
+      213: 2580412707037153529
+    second: celianna_farmnature_watertiles_3
+  - first:
+      213: 2223522578809510324
+    second: celianna_farmnature_watertiles_4
+  - first:
+      213: 5239192660412271336
+    second: celianna_farmnature_watertiles_5
+  - first:
+      213: -7345561815766098817
+    second: celianna_farmnature_watertiles_6
+  - first:
+      213: -1492754397989755271
+    second: celianna_farmnature_watertiles_7
+  - first:
+      213: 8497841379663753114
+    second: celianna_farmnature_watertiles_8
+  - first:
+      213: 8912451661459601688
+    second: celianna_farmnature_watertiles_9
+  - first:
+      213: -3917071014050441630
+    second: celianna_farmnature_watertiles_10
+  - first:
+      213: 9068863552202522348
+    second: celianna_farmnature_watertiles_11
+  - first:
+      213: -2256580065940441378
+    second: celianna_farmnature_watertiles_12
+  - first:
+      213: 6124019101518741825
+    second: celianna_farmnature_watertiles_13
+  - first:
+      213: 4740611110789025933
+    second: celianna_farmnature_watertiles_14
+  - first:
+      213: 5216422579459112703
+    second: celianna_farmnature_watertiles_15
+  - first:
+      213: -218025994452893919
+    second: celianna_farmnature_watertiles_16
+  - first:
+      213: 275911240954055554
+    second: celianna_farmnature_watertiles_17
+  - first:
+      213: 8959121251213452522
+    second: celianna_farmnature_watertiles_18
+  - first:
+      213: 3306657387781264048
+    second: celianna_farmnature_watertiles_19
+  - first:
+      213: 1719907515061165495
+    second: celianna_farmnature_watertiles_20
+  - first:
+      213: 4099820910682945270
+    second: celianna_farmnature_watertiles_21
+  - first:
+      213: -8640322914870381416
+    second: celianna_farmnature_watertiles_22
+  - first:
+      213: -5618680952386365653
+    second: celianna_farmnature_watertiles_23
+  - first:
+      213: -6919995462636240712
+    second: celianna_farmnature_watertiles_24
+  - first:
+      213: -2984753523765397450
+    second: celianna_farmnature_watertiles_25
+  - first:
+      213: 6552124598521236672
+    second: celianna_farmnature_watertiles_26
+  - first:
+      213: 3952500031481334328
+    second: celianna_farmnature_watertiles_27
+  - first:
+      213: 684007991227343319
+    second: celianna_farmnature_watertiles_28
+  - first:
+      213: -3723185976108495968
+    second: celianna_farmnature_watertiles_29
+  - first:
+      213: -2800068906233234410
+    second: celianna_farmnature_watertiles_30
+  - first:
+      213: -8713050540034201373
+    second: celianna_farmnature_watertiles_31
+  - first:
+      213: 3699491124806316930
+    second: celianna_farmnature_watertiles_32
+  - first:
+      213: 6438969771251051893
+    second: celianna_farmnature_watertiles_33
+  - first:
+      213: 8391593134571476241
+    second: celianna_farmnature_watertiles_34
+  - first:
+      213: 585654341842049988
+    second: celianna_farmnature_watertiles_35
+  - first:
+      213: -115928897532700038
+    second: celianna_farmnature_watertiles_36
+  - first:
+      213: -6061438396384296746
+    second: celianna_farmnature_watertiles_37
+  - first:
+      213: -4402227629776283126
+    second: celianna_farmnature_watertiles_38
+  - first:
+      213: 1862511032213288526
+    second: celianna_farmnature_watertiles_39
+  - first:
+      213: 1586633453710955854
+    second: celianna_farmnature_watertiles_40
+  - first:
+      213: 486781673253813402
+    second: celianna_farmnature_watertiles_41
+  - first:
+      213: -6717526908025195908
+    second: celianna_farmnature_watertiles_42
+  - first:
+      213: 516307675264500102
+    second: celianna_farmnature_watertiles_43
+  - first:
+      213: 2088278147735300673
+    second: celianna_farmnature_watertiles_44
+  - first:
+      213: -5868926871642190864
+    second: celianna_farmnature_watertiles_45
+  - first:
+      213: 4305102935015778305
+    second: celianna_farmnature_watertiles_46
+  - first:
+      213: 1863247467472084071
+    second: celianna_farmnature_watertiles_47
+  - first:
+      213: 2802167492732529008
+    second: celianna_farmnature_watertiles_48
+  - first:
+      213: 4377495103760241121
+    second: celianna_farmnature_watertiles_49
+  - first:
+      213: -379221654215011400
+    second: celianna_farmnature_watertiles_50
+  - first:
+      213: 2146711010951000741
+    second: celianna_farmnature_watertiles_51
+  - first:
+      213: -5443292986966579964
+    second: celianna_farmnature_watertiles_52
+  - first:
+      213: 7347734320572313398
+    second: celianna_farmnature_watertiles_53
+  - first:
+      213: 8844426781908001986
+    second: celianna_farmnature_watertiles_54
+  - first:
+      213: -2146050100350727081
+    second: celianna_farmnature_watertiles_55
+  - first:
+      213: -8160641287583980142
+    second: celianna_farmnature_watertiles_56
+  - first:
+      213: 8601899530835096143
+    second: celianna_farmnature_watertiles_57
+  - first:
+      213: -1820638116640035026
+    second: celianna_farmnature_watertiles_58
+  - first:
+      213: -3819938493575166857
+    second: celianna_farmnature_watertiles_59
+  - first:
+      213: -2340879942534781756
+    second: celianna_farmnature_watertiles_60
+  - first:
+      213: 445585231462655333
+    second: celianna_farmnature_watertiles_61
+  - first:
+      213: -7738896452305395556
+    second: celianna_farmnature_watertiles_62
+  - first:
+      213: -6187740801081443033
+    second: celianna_farmnature_watertiles_63
+  - first:
+      213: 6277951649715353635
+    second: celianna_farmnature_watertiles_64
+  - first:
+      213: 2546542185455677931
+    second: celianna_farmnature_watertiles_65
+  - first:
+      213: -2132151188186520310
+    second: celianna_farmnature_watertiles_66
+  - first:
+      213: -4113622502566961482
+    second: celianna_farmnature_watertiles_67
+  - first:
+      213: -6588508325861135038
+    second: celianna_farmnature_watertiles_68
+  - first:
+      213: -3144704868912752401
+    second: celianna_farmnature_watertiles_69
+  - first:
+      213: 5987877660385839401
+    second: celianna_farmnature_watertiles_70
+  - first:
+      213: 5067235827099485911
+    second: celianna_farmnature_watertiles_71
+  - first:
+      213: -569719663326949027
+    second: celianna_farmnature_watertiles_72
+  - first:
+      213: -2760603160690288349
+    second: celianna_farmnature_watertiles_73
+  - first:
+      213: -3159844441068592455
+    second: celianna_farmnature_watertiles_74
+  - first:
+      213: -4739621062068663867
+    second: celianna_farmnature_watertiles_75
+  - first:
+      213: -7569897796920491701
+    second: celianna_farmnature_watertiles_76
+  - first:
+      213: -7748290190431289440
+    second: celianna_farmnature_watertiles_77
+  - first:
+      213: 5028556079796285613
+    second: celianna_farmnature_watertiles_78
+  - first:
+      213: -75909866493356707
+    second: celianna_farmnature_watertiles_79
+  - first:
+      213: -3921580705058170212
+    second: celianna_farmnature_watertiles_80
+  - first:
+      213: -5105012576881000705
+    second: celianna_farmnature_watertiles_81
+  - first:
+      213: -6773985417732347238
+    second: celianna_farmnature_watertiles_82
+  - first:
+      213: 3306659864938242800
+    second: celianna_farmnature_watertiles_83
+  - first:
+      213: -4585254613002389507
+    second: celianna_farmnature_watertiles_84
+  - first:
+      213: -2437938986879975687
+    second: celianna_farmnature_watertiles_85
+  - first:
+      213: 4117143607375011738
+    second: celianna_farmnature_watertiles_86
+  - first:
+      213: -3689737834868706478
+    second: celianna_farmnature_watertiles_87
+  - first:
+      213: -8248828583132471828
+    second: celianna_farmnature_watertiles_88
+  - first:
+      213: -49148114364994208
+    second: celianna_farmnature_watertiles_89
+  - first:
+      213: 8711105995043822952
+    second: celianna_farmnature_watertiles_90
+  - first:
+      213: 4495091568949589923
+    second: celianna_farmnature_watertiles_91
+  - first:
+      213: -3411471452899145007
+    second: celianna_farmnature_watertiles_92
+  - first:
+      213: -3350518360480775536
+    second: celianna_farmnature_watertiles_93
+  - first:
+      213: -8631015821222283339
+    second: celianna_farmnature_watertiles_94
+  - first:
+      213: 9014678099383208386
+    second: celianna_farmnature_watertiles_95
+  - first:
+      213: 5246610102815519431
+    second: celianna_farmnature_watertiles_96
+  - first:
+      213: -1296894724761223272
+    second: celianna_farmnature_watertiles_97
+  - first:
+      213: 8698204980211894208
+    second: celianna_farmnature_watertiles_98
+  - first:
+      213: 555185122072055987
+    second: celianna_farmnature_watertiles_99
+  - first:
+      213: 6345989549784755215
+    second: celianna_farmnature_watertiles_100
+  - first:
+      213: 8067137171814528535
+    second: celianna_farmnature_watertiles_101
+  - first:
+      213: -2508652131627104748
+    second: celianna_farmnature_watertiles_102
+  - first:
+      213: -1855638764056436307
+    second: celianna_farmnature_watertiles_103
+  - first:
+      213: 587737889704651341
+    second: celianna_farmnature_watertiles_104
+  - first:
+      213: 4559950393213516976
+    second: celianna_farmnature_watertiles_105
+  - first:
+      213: -8494837385614999694
+    second: celianna_farmnature_watertiles_106
+  - first:
+      213: 5984387669005782460
+    second: celianna_farmnature_watertiles_107
+  - first:
+      213: 8878356444311353179
+    second: celianna_farmnature_watertiles_108
+  - first:
+      213: -3109306658463989543
+    second: celianna_farmnature_watertiles_109
+  - first:
+      213: 6675106024557176857
+    second: celianna_farmnature_watertiles_110
+  - first:
+      213: 7445014797441677482
+    second: celianna_farmnature_watertiles_111
+  - first:
+      213: -8341083208454316855
+    second: celianna_farmnature_watertiles_112
+  - first:
+      213: 6634700822096659255
+    second: celianna_farmnature_watertiles_113
+  - first:
+      213: 1473628437883830578
+    second: celianna_farmnature_watertiles_114
+  - first:
+      213: 751161550992930865
+    second: celianna_farmnature_watertiles_115
+  - first:
+      213: 3724579682791017248
+    second: celianna_farmnature_watertiles_116
+  - first:
+      213: -7887300229478712236
+    second: celianna_farmnature_watertiles_117
+  - first:
+      213: 6656367560534351022
+    second: celianna_farmnature_watertiles_118
+  - first:
+      213: -4493997272371500559
+    second: celianna_farmnature_watertiles_119
+  - first:
+      213: 3483124266546869792
+    second: celianna_farmnature_watertiles_120
+  - first:
+      213: -2271198358904551954
+    second: celianna_farmnature_watertiles_121
+  - first:
+      213: -7932561783989381181
+    second: celianna_farmnature_watertiles_122
+  - first:
+      213: -3865511733579041488
+    second: celianna_farmnature_watertiles_123
+  - first:
+      213: -7707900424755599252
+    second: celianna_farmnature_watertiles_124
+  - first:
+      213: 8415585720435779277
+    second: celianna_farmnature_watertiles_125
+  - first:
+      213: -1673093141741722065
+    second: celianna_farmnature_watertiles_126
+  - first:
+      213: -5294367659555329259
+    second: celianna_farmnature_watertiles_127
+  - first:
+      213: -6911012674321960437
+    second: celianna_farmnature_watertiles_128
+  - first:
+      213: -4133545179985629206
+    second: celianna_farmnature_watertiles_129
+  - first:
+      213: -6014126587152747571
+    second: celianna_farmnature_watertiles_130
+  - first:
+      213: -3117562695637381447
+    second: celianna_farmnature_watertiles_131
+  - first:
+      213: 6903077830461851067
+    second: celianna_farmnature_watertiles_132
+  - first:
+      213: 4041811375692668871
+    second: celianna_farmnature_watertiles_133
+  - first:
+      213: -2357745816876406882
+    second: celianna_farmnature_watertiles_134
+  - first:
+      213: -3125576578418749428
+    second: celianna_farmnature_watertiles_135
+  - first:
+      213: 1447765149894996958
+    second: celianna_farmnature_watertiles_136
+  - first:
+      213: -4772817639115056910
+    second: celianna_farmnature_watertiles_137
+  - first:
+      213: -7787117967333317162
+    second: celianna_farmnature_watertiles_138
+  - first:
+      213: 8347255980640631618
+    second: celianna_farmnature_watertiles_139
+  - first:
+      213: -4872169962836055272
+    second: celianna_farmnature_watertiles_140
+  - first:
+      213: 8733791035466789069
+    second: celianna_farmnature_watertiles_141
+  - first:
+      213: 6603440277583966546
+    second: celianna_farmnature_watertiles_142
+  - first:
+      213: 8594964149629629216
+    second: celianna_farmnature_watertiles_143
+  - first:
+      213: 128627662238057175
+    second: celianna_farmnature_watertiles_144
+  - first:
+      213: -690245334766300750
+    second: celianna_farmnature_watertiles_145
+  - first:
+      213: -5311819613298532026
+    second: celianna_farmnature_watertiles_146
+  - first:
+      213: 4115762167546830311
+    second: celianna_farmnature_watertiles_147
+  - first:
+      213: 416231913831779566
+    second: celianna_farmnature_watertiles_148
+  - first:
+      213: -6239822452426131092
+    second: celianna_farmnature_watertiles_149
+  - first:
+      213: 9209770754418503689
+    second: celianna_farmnature_watertiles_150
+  - first:
+      213: -1175543777375369672
+    second: celianna_farmnature_watertiles_151
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 394
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e910cbfb22a570800000000000000
+      internalID: 8476385808924403967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af1fcb1aa0dd8d0800000000000000
+      internalID: -2820086101888075164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c4a6513d3b35e00800000000000000
+      internalID: 1032366458776734793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88ad87fa77fc320800000000000000
+      internalID: 2580412707037153529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 414
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95004310a8bde10800000000000000
+      internalID: 2223522578809510324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 414
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea05b957f955b840800000000000000
+      internalID: 5239192660412271336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 414
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c969f62725f0a90800000000000000
+      internalID: -7345561815766098817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 408
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9762be2b8cba84be0800000000000000
+      internalID: -1492754397989755271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 408
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f297816b56ee570800000000000000
+      internalID: 8497841379663753114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 408
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b32fd0936fab70800000000000000
+      internalID: 8912451661459601688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2665b8f8aa4c3a9c0800000000000000
+      internalID: -3917071014050441630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 361
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeb4811a531bdd70800000000000000
+      internalID: 9068863552202522348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 408
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6746ac2640fa0e0800000000000000
+      internalID: -2256580065940441378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 408
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414bb72de2ecf450800000000000000
+      internalID: 6124019101518741825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 408
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8099dc30b80ac140800000000000000
+      internalID: 4740611110789025933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 408
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebcfeb2b4746840800000000000000
+      internalID: 5216422579459112703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 408
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f75d0638a69fcf0800000000000000
+      internalID: -218025994452893919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 64
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b8a92dfcb34d300800000000000000
+      internalID: 275911240954055554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 64
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae42b3e7f41355c70800000000000000
+      internalID: 8959121251213452522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 64
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29f90ff5b93ed20800000000000000
+      internalID: 3306657387781264048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 395
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bddeb1c5c65ed710800000000000000
+      internalID: 1719907515061165495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6b9ff756d75e830800000000000000
+      internalID: 4099820910682945270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894bb7a5618671880800000000000000
+      internalID: -8640322914870381416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 395
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d1ce517f6602b0800000000000000
+      internalID: -5618680952386365653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_24
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0804a5acc37ff90800000000000000
+      internalID: -6919995462636240712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 395
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6383ed9eb760496d0800000000000000
+      internalID: -2984753523765397450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_26
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 395
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc05f29b92ddea50800000000000000
+      internalID: 6552124598521236672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_27
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a4a2f56d91ad630800000000000000
+      internalID: 3952500031481334328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d162acd4a51e7900800000000000000
+      internalID: 684007991227343319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_29
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab465db416945cc0800000000000000
+      internalID: -3723185976108495968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 395
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf9594a282429d0800000000000000
+      internalID: -2800068906233234410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_31
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 395
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e86c3392b6051780800000000000000
+      internalID: -8713050540034201373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_32
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 395
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837ac7c39b375330800000000000000
+      internalID: 3699491124806316930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 395
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da5ee44e0db5950800000000000000
+      internalID: 6438969771251051893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1155dbdce7de47470800000000000000
+      internalID: 8391593134571476241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb19ae5589a02800800000000000000
+      internalID: 585654341842049988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5c5b2843246ef0800000000000000
+      internalID: -115928897532700038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_37
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 380
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0c993b4e171eba0800000000000000
+      internalID: -6061438396384296746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 382
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a56c27b4528e2c0800000000000000
+      internalID: -4402227629776283126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b1517ae7f8d910800000000000000
+      internalID: 1862511032213288526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_40
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 382
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45513548bad40610800000000000000
+      internalID: 1586633453710955854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_41
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb67d4a5561c600800000000000000
+      internalID: 486781673253813402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_42
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 382
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b70e3edc86c2a0800000000000000
+      internalID: -6717526908025195908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_43
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 382
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c2fa581b4a2700800000000000000
+      internalID: 516307675264500102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_44
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 380
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a29f349ed0bfc10800000000000000
+      internalID: 2088278147735300673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_45
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbc50bea126d8ea0800000000000000
+      internalID: -5868926871642190864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_46
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 382
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086b1b5f4ccebb30800000000000000
+      internalID: 4305102935015778305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_47
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 382
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd15323b59bd910800000000000000
+      internalID: 1863247467472084071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0792875fc7c43e620800000000000000
+      internalID: 2802167492732529008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 369
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e114a99a9cffbc30800000000000000
+      internalID: 4377495103760241121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 369
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d0692aebbcbaf0800000000000000
+      internalID: -379221654215011400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_51
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 369
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2772b6a46aacd10800000000000000
+      internalID: 2146711010951000741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_52
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 369
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056b7f3ed98574b0800000000000000
+      internalID: -5443292986966579964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_53
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 369
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa8a14f6568f560800000000000000
+      internalID: 7347734320572313398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 369
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e3916c47bdba70800000000000000
+      internalID: 8844426781908001986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_55
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 367
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4762ddc2b732e0800000000000000
+      internalID: -2146050100350727081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_56
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 369
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ab226cf39fbe80800000000000000
+      internalID: -8160641287583980142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_57
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 369
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4276096c06106770800000000000000
+      internalID: 8601899530835096143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_58
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 369
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6221774bcbb6e0800000000000000
+      internalID: -1820638116640035026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_59
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 369
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748c92dd2adcfac0800000000000000
+      internalID: -3819938493575166857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_60
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 369
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a0634816838fd0800000000000000
+      internalID: -2340879942534781756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_61
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 369
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565ed7e38690f2600800000000000000
+      internalID: 445585231462655333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_62
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 367
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c906ec6ddaae99490800000000000000
+      internalID: -7738896452305395556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_63
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 356
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d7955868ab02aa0800000000000000
+      internalID: -6187740801081443033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 356
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287c5e63c3cf1750800000000000000
+      internalID: 6277951649715353635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_65
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 356
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f1a120a2275320800000000000000
+      internalID: 2546542185455677931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_66
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 354
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0527bc7ac31962e0800000000000000
+      internalID: -2132151188186520310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_67
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 356
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be517af02a79e6c0800000000000000
+      internalID: -4113622502566961482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 356
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de755c59ae094a0800000000000000
+      internalID: -6588508325861135038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 356
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe893054593cb54d0800000000000000
+      internalID: -3144704868912752401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_70
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 356
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298bc9c107391350800000000000000
+      internalID: 5987877660385839401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_71
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 356
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c56b2320725640800000000000000
+      internalID: 5067235827099485911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_72
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 356
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5197d51cf2f718f0800000000000000
+      internalID: -569719663326949027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291c393d0e50b9d0800000000000000
+      internalID: -2760603160690288349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 345
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b22d90f83af524d0800000000000000
+      internalID: -3159844441068592455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 345
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9007171cb793eb0800000000000000
+      internalID: -4739621062068663867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_76
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 345
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41ca8c8f0252f690800000000000000
+      internalID: -7569897796920491701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 345
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff2bebf1b887490800000000000000
+      internalID: -7748290190431289440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 345
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da07365bc1509c540800000000000000
+      internalID: 5028556079796285613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_79
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5557bce06052fef0800000000000000
+      internalID: -75909866493356707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_80
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 345
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5bfc402fb399c0800000000000000
+      internalID: -3921580705058170212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 319
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe3b1ddb1a5729b0800000000000000
+      internalID: -5105012576881000705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_82
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 332
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a23661728fdf1a0800000000000000
+      internalID: -6773985417732347238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_83
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 332
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26fa2b0ad93ed20800000000000000
+      internalID: 3306659864938242800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 332
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df775432937ed50c0800000000000000
+      internalID: -4585254613002389507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_85
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 332
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe71fe7863ba2ed0800000000000000
+      internalID: -2437938986879975687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_86
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 332
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9bde1c48032930800000000000000
+      internalID: 4117143607375011738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 332
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253f45efcfa6bccc0800000000000000
+      internalID: -3689737834868706478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_88
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 332
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceddc499b16468d80800000000000000
+      internalID: -8248828583132471828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_89
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 330
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06de4e5ec04615ff0800000000000000
+      internalID: -49148114364994208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_90
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 330
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ddc53cfb014e870800000000000000
+      internalID: 8711105995043822952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_91
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 330
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f71847f5c16e30800000000000000
+      internalID: 4495091568949589923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_92
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 330
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8f80d9c408a0d0800000000000000
+      internalID: -3411471452899145007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_93
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0928e1e8d419081d0800000000000000
+      internalID: -3350518360480775536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_94
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 330
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f445f6d8783880800000000000000
+      internalID: -8631015821222283339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_95
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 330
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ca3638f19a1d70800000000000000
+      internalID: 9014678099383208386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_96
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 330
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c27b4d3714bfc840800000000000000
+      internalID: 5246610102815519431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_97
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 317
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f778b7e11800ee0800000000000000
+      internalID: -1296894724761223272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_98
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 330
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7401d285b36b870800000000000000
+      internalID: 8698204980211894208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 330
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0dfa15de964b700800000000000000
+      internalID: 555185122072055987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_100
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 330
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce24f7fdb711850800000000000000
+      internalID: 6345989549784755215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_101
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 330
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ba58248a34ff60800000000000000
+      internalID: 8067137171814528535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_102
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 330
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416075d7d2a7f2dd0800000000000000
+      internalID: -2508652131627104748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 319
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a8fc20627f36e0800000000000000
+      internalID: -1855638764056436307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_104
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 319
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a22e82f70182800800000000000000
+      internalID: 587737889704651341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_105
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 319
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf4e419b2384f30800000000000000
+      internalID: 4559950393213516976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb5b5c7664c1a80800000000000000
+      internalID: -8494837385614999694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_107
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 319
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4159d0e0dc0350800000000000000
+      internalID: 5984387669005782460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_108
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 319
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b577a748522463b70800000000000000
+      internalID: 8878356444311353179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 317
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04f74611689d4d0800000000000000
+      internalID: -3109306658463989543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_110
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 319
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ecc7209db2ac50800000000000000
+      internalID: 6675106024557176857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_111
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 317
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b90d4381025760800000000000000
+      internalID: 7445014797441677482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_112
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 315
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccda1ec3058e3c80800000000000000
+      internalID: -8341083208454316855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_113
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 317
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733401cde31331c50800000000000000
+      internalID: 6634700822096659255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_114
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231caf2b141637410800000000000000
+      internalID: 1473628437883830578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_115
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 317
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387dd76379ac6a00800000000000000
+      internalID: 751161550992930865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_116
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 317
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4562ec7d50b330800000000000000
+      internalID: 3724579682791017248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_117
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 317
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c7011ea3eaa8290800000000000000
+      internalID: -7887300229478712236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_118
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 317
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac5514870b206c50800000000000000
+      internalID: 6656367560534351022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_119
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 317
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e8be7a4d12a1c0800000000000000
+      internalID: -4493997272371500559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_120
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 317
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b118e01b865030800000000000000
+      internalID: 3483124266546869792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_121
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 317
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54b0b30251b70e0800000000000000
+      internalID: -2271198358904551954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_122
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 317
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c759720611e9e190800000000000000
+      internalID: -7932561783989381181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_123
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 306
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035bae40f81fa5ac0800000000000000
+      internalID: -3865511733579041488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_124
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 304
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c682c52e669080590800000000000000
+      internalID: -7707900424755599252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_125
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 304
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ac6300aa2ac470800000000000000
+      internalID: 8415585720435779277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_126
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 304
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a75ae6aaf7c8e0800000000000000
+      internalID: -1673093141741722065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_127
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 304
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b63e51aa0a686b0800000000000000
+      internalID: -5294367659555329259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_128
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 304
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0231dcb6962710a0800000000000000
+      internalID: -6911012674321960437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_129
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 302
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefadeb2f82b2a6c0800000000000000
+      internalID: -4133545179985629206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc33782bbb7898ca0800000000000000
+      internalID: -6014126587152747571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4681fe313cb4d0800000000000000
+      internalID: -3117562695637381447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_132
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58d8576b8accf50800000000000000
+      internalID: 6903077830461851067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_133
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 248
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf5b412806671830800000000000000
+      internalID: 4041811375692668871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 219
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e972b62ebaa974fd0800000000000000
+      internalID: -2357745816876406882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 201
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d11579a8bf94d0800000000000000
+      internalID: -3125576578418749428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 201
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37ea5bbbe771410800000000000000
+      internalID: 1447765149894996958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_137
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 201
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f814da05ab83cdb0800000000000000
+      internalID: -4772817639115056910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_138
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 201
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5290577799ee390800000000000000
+      internalID: -7787117967333317162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_139
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 201
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf657b61967d370800000000000000
+      internalID: 8347255980640631618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b24df8b33926cb0800000000000000
+      internalID: -4872169962836055272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc03d735ca8a43970800000000000000
+      internalID: 8733791035466789069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_142
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25136e822f124ab50800000000000000
+      internalID: 6603440277583966546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_143
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 80
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02334e32b52774770800000000000000
+      internalID: 8594964149629629216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 80
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20df36d2af8c100800000000000000
+      internalID: 128627662238057175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_145
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 80
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1526d6681cb66f0800000000000000
+      internalID: -690245334766300750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_146
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64163667430a846b0800000000000000
+      internalID: -5311819613298532026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edde9892ef1e1930800000000000000
+      internalID: 4115762167546830311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_148
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 40
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeccf1868b0c6c500800000000000000
+      internalID: 416231913831779566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6932ad1a82b769a0800000000000000
+      internalID: -6239822452426131092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_150
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90075e7a4bdafcf70800000000000000
+      internalID: 9209770754418503689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_watertiles_151
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ce9ba921afafe0800000000000000
+      internalID: -1175543777375369672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
