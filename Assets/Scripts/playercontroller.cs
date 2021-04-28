@@ -46,7 +46,7 @@ public class playercontroller : MonoBehaviour
         if (Input.GetKey("z"))
         {
             //anim.SetBool("Shoot", true);
-            Instantiate(bullet, transform.position, Quaternion.identity);
+            Instantiate(bullet, new Vector2(gameObject.transform.position.x + 0.91f, gameObject.transform.position.y - 0.28f), Quaternion.identity);
 
         }
         PlayerJoystick();
