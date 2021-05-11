@@ -21,11 +21,11 @@ public class joystick : MonoBehaviour,IPointerUpHandler, IPointerDownHandler
             //player.PlayerJoystick();
         }
 
-        if (gameObject.name == "Jump")
-        {
-            player.Jump();
-            //player.PlayerJoystick();
-        }
+        //if (gameObject.name == "Jump")
+        //{
+        //    player.Jump();
+        //    //player.PlayerJoystick();
+        //}
 
     }
 

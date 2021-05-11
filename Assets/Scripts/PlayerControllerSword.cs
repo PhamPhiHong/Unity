@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playercontroller : MonoBehaviour
+public class PlayerControllerSword : MonoBehaviour
 {
     public float MoveForce = 20f;
     public float MaxVelocity = 5f;
@@ -17,11 +17,7 @@ public class playercontroller : MonoBehaviour
     private bool moveLeft = false;
     private bool moveRight = false;
 
-    [SerializeField]
-    private GameObject bullet;
-
-
-
+  
     void Awake()
     {
         mybody = GetComponent<Rigidbody2D>();
@@ -43,12 +39,7 @@ public class playercontroller : MonoBehaviour
     {
         PlayerWalkKeyboard();
 
-        if (Input.GetKey("z"))
-        {
-            //anim.SetBool("Shoot", true);
-            Instantiate(bullet, new Vector2(gameObject.transform.position.x + 0.91f, gameObject.transform.position.y - 0.28f), Quaternion.identity);
-
-        }
+       
         //PlayerJoystick();
 
 
@@ -109,6 +100,14 @@ public class playercontroller : MonoBehaviour
 
             }
         }
+        if (Input.GetKey("z"))
+        {
+            anim.SetBool("Hit", true);
+        }
+        else
+        {
+            anim.SetBool("Hit", false);
+        }
         mybody.AddForce(new Vector2(forceX, forceY));
     }
 
@@ -147,14 +146,6 @@ public class playercontroller : MonoBehaviour
     {
         StartCoroutine(Faded());
     }
-
-
-
-
-
-
-
-
 
 
     void PlayerJoystick()
