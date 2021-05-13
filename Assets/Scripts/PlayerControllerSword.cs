@@ -9,8 +9,8 @@ public class PlayerControllerSword : MonoBehaviour
     public float Jumpforce = 220f;
     public bool grounded = true;
     public AudioSource audioSource;
-    public AudioClip AudioJump;
-    public AudioClip AudioHit;
+    //public AudioClip AudioJump;
+    //public AudioClip AudioHit;
 
     private Rigidbody2D mybody;
     private Animator anim;
@@ -45,7 +45,7 @@ public class PlayerControllerSword : MonoBehaviour
             if (grounded)
             {
                 grounded = false;
-                audioSource.PlayOneShot(AudioJump,0.3f);
+                //audioSource.PlayOneShot(AudioJump,0.3f);
                 mybody.AddForce(Vector2.up*Jumpforce);
                 
             }
@@ -101,7 +101,7 @@ public class PlayerControllerSword : MonoBehaviour
         if (Input.GetKey("z"))
         {
 
-            audioSource.PlayOneShot(AudioHit);
+            //audioSource.PlayOneShot(AudioHit);
             anim.SetBool("Hit", true);
         }
         else
