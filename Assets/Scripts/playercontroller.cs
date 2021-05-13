@@ -14,8 +14,8 @@ public class playercontroller : MonoBehaviour
 
     public SpriteRenderer rend;
 
-    private bool moveLeft = false;
-    private bool moveRight = false;
+    //private bool moveLeft = false;
+    //private bool moveRight = false;
 
     [SerializeField]
     private GameObject bullet;
@@ -27,8 +27,7 @@ public class playercontroller : MonoBehaviour
         mybody = GetComponent<Rigidbody2D>();
         rend = GetComponent<SpriteRenderer>();
 
-        //GameObject.Find("Jump").GetComponent<Button>().onClick.AddListener(() => Jump());
-        //GameObject.Find("Jump").GetComponent<Button>().onClick.AddListener(Jump);
+       
 
     }
     // Start is called before the first frame update
@@ -157,38 +156,38 @@ public class playercontroller : MonoBehaviour
 
 
 
-    void PlayerJoystick()
-    {
-        float forceX = 0;
-        float forceY = 0;
-        float vel = Mathf.Abs(mybody.velocity.x);
+    //void PlayerJoystick()
+    //{
+    //    float forceX = 0;
+    //    float forceY = 0;
+    //    float vel = Mathf.Abs(mybody.velocity.x);
 
-        if (vel < MaxVelocity)
-        {
-            Vector3 temp = transform.localScale;
-            if (moveRight)
-            {
-                temp.x = 1f;
-                forceX = MoveForce;
-                anim.SetBool("Move", true);
-                anim.SetBool("Jump", false);
-            }
-            else if (moveLeft)
-            {
-                temp.x = -1f;
-                forceX = -MoveForce;
-                anim.SetBool("Move", true);
-                anim.SetBool("Jump", false);
-            }
-            else
-            {
-                anim.SetBool("Move", false);
-                anim.SetBool("Jump", false);
-            }
-            transform.localScale = temp;
-        }
-        mybody.AddForce(new Vector2(forceX, forceY));
-    }
+    //    if (vel < MaxVelocity)
+    //    {
+    //        Vector3 temp = transform.localScale;
+    //        if (moveRight)
+    //        {
+    //            temp.x = 1f;
+    //            forceX = MoveForce;
+    //            anim.SetBool("Move", true);
+    //            anim.SetBool("Jump", false);
+    //        }
+    //        else if (moveLeft)
+    //        {
+    //            temp.x = -1f;
+    //            forceX = -MoveForce;
+    //            anim.SetBool("Move", true);
+    //            anim.SetBool("Jump", false);
+    //        }
+    //        else
+    //        {
+    //            anim.SetBool("Move", false);
+    //            anim.SetBool("Jump", false);
+    //        }
+    //        transform.localScale = temp;
+    //    }
+    //    mybody.AddForce(new Vector2(forceX, forceY));
+    //}
 
     //public void Jump()
     //{
@@ -207,13 +206,13 @@ public class playercontroller : MonoBehaviour
             grounded = true;
         }
     }
-    public void MoveLeft(bool left)
-    {
-        moveLeft = left;
-        moveRight = !left;
-    }
-    public void StopMoving()
-    {
-        moveLeft = moveRight = false;
-    }
+    //public void MoveLeft(bool left)
+    //{
+    //    moveLeft = left;
+    //    moveRight = !left;
+    //}
+    //public void StopMoving()
+    //{
+    //    moveLeft = moveRight = false;
+    //}
 }

@@ -6,26 +6,26 @@ public class PlayerControllerSword : MonoBehaviour
 {
     public float MoveForce = 20f;
     public float MaxVelocity = 5f;
-    public float Jumpforce = 200f;
+    public float Jumpforce = 220f;
     public bool grounded = true;
+    public AudioSource audioSource;
+    public AudioClip AudioJump;
+    public AudioClip AudioHit;
 
     private Rigidbody2D mybody;
     private Animator anim;
 
     public SpriteRenderer rend;
 
-    private bool moveLeft = false;
-    private bool moveRight = false;
+    //private bool moveLeft = false;
+    //private bool moveRight = false;
 
   
     void Awake()
     {
         mybody = GetComponent<Rigidbody2D>();
         rend = GetComponent<SpriteRenderer>();
-
-        //GameObject.Find("Jump").GetComponent<Button>().onClick.AddListener(() => Jump());
-        //GameObject.Find("Jump").GetComponent<Button>().onClick.AddListener(Jump);
-
+        audioSource = GetComponent<AudioSource>();
     }
     // Start is called before the first frame update
     void Start()
@@ -38,8 +38,19 @@ public class PlayerControllerSword : MonoBehaviour
     void FixedUpdate()
     {
         PlayerWalkKeyboard();
+        anim.SetBool("Ground", grounded);
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            
+            if (grounded)
+            {
+                grounded = false;
+                audioSource.PlayOneShot(AudioJump,0.3f);
+                mybody.AddForce(Vector2.up*Jumpforce);
+                
+            }
+        }
 
-       
         //PlayerJoystick();
 
 
@@ -61,8 +72,10 @@ public class PlayerControllerSword : MonoBehaviour
             {
                 temp.x = 1f;
                 forceX = MoveForce;
+                audioSource.mute = false;
+                audioSource.Play();
                 anim.SetBool("Move", true);
-                anim.SetBool("Jump", false);
+               
 
 
             }
@@ -70,38 +83,25 @@ public class PlayerControllerSword : MonoBehaviour
             {
                 temp.x = -1f;
                 forceX = -MoveForce;
+                audioSource.mute = false;
+                audioSource.Play();
                 anim.SetBool("Move", true);
-                anim.SetBool("Jump", false);
+               
 
             }
             else
             {
                 anim.SetBool("Move", false);
-                anim.SetBool("Jump", false);
+               
             }
             transform.localScale = temp;
         }
 
-        if (Input.GetKey(KeyCode.Space))
-        {
-            if (grounded)
-            {
-                grounded = false;
-                forceY = 100f;
-                mybody.AddForce(new Vector2(0, forceY));
-                anim.SetBool("Jump", true);
-            }
-            else
-            {
-                grounded = true;
-                forceY = 0;
-                mybody.AddForce(new Vector2(0, forceY));
-                anim.SetBool("Jump", false);
-
-            }
-        }
+        
         if (Input.GetKey("z"))
         {
+
+            audioSource.PlayOneShot(AudioHit);
             anim.SetBool("Hit", true);
         }
         else
@@ -114,6 +114,10 @@ public class PlayerControllerSword : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D target)
     {
+        if (target.gameObject.tag == "Floor")
+        {
+            grounded = true;
+        }
         if (target.tag == "Bullet")
         {
             anim.SetBool("Hurt", true);
@@ -123,6 +127,13 @@ public class PlayerControllerSword : MonoBehaviour
         {
             anim.SetBool("Hurt", false);
         }
+       
+    }
+     void OnTriggerExit2D(Collider2D collision)
+    {
+       
+            grounded = false;
+        
     }
 
     IEnumerator Hurt()
@@ -148,38 +159,38 @@ public class PlayerControllerSword : MonoBehaviour
     }
 
 
-    void PlayerJoystick()
-    {
-        float forceX = 0;
-        float forceY = 0;
-        float vel = Mathf.Abs(mybody.velocity.x);
+    //void PlayerJoystick()
+    //{
+    //    float forceX = 0;
+    //    float forceY = 0;
+    //    float vel = Mathf.Abs(mybody.velocity.x);
 
-        if (vel < MaxVelocity)
-        {
-            Vector3 temp = transform.localScale;
-            if (moveRight)
-            {
-                temp.x = 1f;
-                forceX = MoveForce;
-                anim.SetBool("Move", true);
-                anim.SetBool("Jump", false);
-            }
-            else if (moveLeft)
-            {
-                temp.x = -1f;
-                forceX = -MoveForce;
-                anim.SetBool("Move", true);
-                anim.SetBool("Jump", false);
-            }
-            else
-            {
-                anim.SetBool("Move", false);
-                anim.SetBool("Jump", false);
-            }
-            transform.localScale = temp;
-        }
-        mybody.AddForce(new Vector2(forceX, forceY));
-    }
+    //    if (vel < MaxVelocity)
+    //    {
+    //        Vector3 temp = transform.localScale;
+    //        if (moveRight)
+    //        {
+    //            temp.x = 1f;
+    //            forceX = MoveForce;
+    //            anim.SetBool("Move", true);
+    //            anim.SetBool("Jump", false);
+    //        }
+    //        else if (moveLeft)
+    //        {
+    //            temp.x = -1f;
+    //            forceX = -MoveForce;
+    //            anim.SetBool("Move", true);
+    //            anim.SetBool("Jump", false);
+    //        }
+    //        else
+    //        {
+    //            anim.SetBool("Move", false);
+    //            anim.SetBool("Jump", false);
+    //        }
+    //        transform.localScale = temp;
+    //    }
+    //    mybody.AddForce(new Vector2(forceX, forceY));
+    //}
 
     //public void Jump()
     //{
@@ -191,20 +202,19 @@ public class PlayerControllerSword : MonoBehaviour
     //        anim.SetBool("Jump", true);
     //    }
     //}
-    void OnCollisionEnter2D(Collision2D target)
-    {
-        if (target.gameObject.tag == "Floor")
-        {
-            grounded = true;
-        }
-    }
-    public void MoveLeft(bool left)
-    {
-        moveLeft = left;
-        moveRight = !left;
-    }
-    public void StopMoving()
-    {
-        moveLeft = moveRight = false;
-    }
+   
+
+  
+
+    
+   
+    //public void MoveLeft(bool left)
+    //{
+    //    moveLeft = left;
+    //    moveRight = !left;
+    //}
+    //public void StopMoving()
+    //{
+    //    moveLeft = moveRight = false;
+    //}
 }
