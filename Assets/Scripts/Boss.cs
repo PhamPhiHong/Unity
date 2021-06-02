@@ -32,8 +32,7 @@ public class Boss : MonoBehaviour
     void Running()
     {
         //anim.SetTrigger("Move");
-        transform.localPosition = Vector3.MoveTowards(transform.localPosition, nextPos, movespeed *
-       Time.deltaTime);
+        transform.localPosition = Vector3.MoveTowards(transform.localPosition, nextPos, movespeed *Time.deltaTime);
         if (Vector3.Distance(transform.localPosition, nextPos) <= 0.1)
         {
             ChangeDirection();
