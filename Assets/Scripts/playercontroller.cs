@@ -8,6 +8,11 @@ public class playercontroller : MonoBehaviour
     public float MaxVelocity = 5f;
     public float Jumpforce = 200f;
     public bool grounded = true;
+    public bool spotted = false;
+    public Transform startSight, endSight;
+    private int numberBullet = 10;
+    private float timeDelay = 0;
+
 
     private Rigidbody2D mybody;
     private Animator anim;
@@ -49,8 +54,31 @@ public class playercontroller : MonoBehaviour
 
         }
         //PlayerJoystick();
+        Debug.DrawLine(startSight.position, endSight.position, Color.red);
+        spotted = Physics2D.Linecast(startSight.position, endSight.position, 1 <<
+        LayerMask.NameToLayer("enemy"));
+        timeDelay += Time.deltaTime;
+        if (timeDelay > 0.5f && spotted && numberBullet > 0)
+        {
+            Attack();
+            timeDelay = 0;
+        }
 
 
+    }
+    void Attack()
+    {
+        numberBullet--;
+        if (gameObject.transform.localScale.x == 1)
+        {
+            GameObject body = Instantiate(bullet, transform.position, Quaternion.Euler(new Vector3(0, 0, 0)));
+            body.GetComponent<bulletGun>().Shoot(1);
+        }
+        else
+        {
+            GameObject body = Instantiate(bullet, transform.position, Quaternion.Euler(new Vector3(0, 0, 180)));
+            body.GetComponent<bulletGun>().Shoot(-1);
+        }
     }
 
     void PlayerWalkKeyboard()
