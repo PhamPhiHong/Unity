@@ -1508,6 +1508,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Baby_dragon_sprite 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6646154665009112392, guid: 0d64d08e96f1a75468ac717291f3a551, type: 3}
+      propertyPath: pausePannel
+      value: 
+      objectReference: {fileID: 1269404409}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d64d08e96f1a75468ac717291f3a551, type: 3}
 --- !u!1 &995420188
@@ -2273,6 +2277,10 @@ PrefabInstance:
       propertyPath: bullet
       value: 
       objectReference: {fileID: 621502462044909431, guid: d8b02e42848a9154caf8bff9744f8408, type: 3}
+    - target: {fileID: 8821286254750494724, guid: 899fabb0ebe99e048bb3af8e6e9dcdf2, type: 3}
+      propertyPath: pausePannel
+      value: 
+      objectReference: {fileID: 1269404409}
     - target: {fileID: 8821286254750496761, guid: 899fabb0ebe99e048bb3af8e6e9dcdf2, type: 3}
       propertyPath: m_RootOrder
       value: 1
