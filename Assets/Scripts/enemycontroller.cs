@@ -12,9 +12,14 @@ public class enemycontroller : MonoBehaviour
     [SerializeField]
     private GameObject bullet;
 
+    public Gamemaster gm;
+
+    public GameObject pausePannel;
+
     void Start()
     {
         StartCoroutine(Attack());
+        gm = GameObject.FindGameObjectWithTag("Gamemaster").GetComponent<Gamemaster>();
     }
     // Update is called once per frame
     void Update()
@@ -40,12 +45,17 @@ public class enemycontroller : MonoBehaviour
     void OnTriggerEnter2D(Collider2D target)
     {
         if (target.tag == "Player")
-        { Destroy(target.gameObject); }
+        { 
+            Destroy(target.gameObject);
+            pausePannel.SetActive(true);
+        }
+
+       
         //if (target.tag == "GunBullet")
         //{
         //    Destroy(target.gameObject);
         //    Instantiate(effect, transform.position, Quaternion.identity);
-            
+
 
         //}
 
