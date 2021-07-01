@@ -33,7 +33,7 @@ public class enemycontroller : MonoBehaviour
 
     IEnumerator Attack()
     {
-        yield return new WaitForSeconds(Random.Range(1,2));
+        yield return new WaitForSeconds(Random.Range(1,5));
         Instantiate(bullet, transform.position, Quaternion.identity);
         StartCoroutine(Attack());
     }

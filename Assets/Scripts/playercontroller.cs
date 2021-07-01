@@ -25,6 +25,9 @@ public class playercontroller : MonoBehaviour
     [SerializeField]
     private GameObject bullet;
 
+    [SerializeField]
+    private GameObject bullet1;
+
 
 
     void Awake()
@@ -49,9 +52,19 @@ public class playercontroller : MonoBehaviour
 
         if (Input.GetKey("z"))
         {
+            
             //anim.SetBool("Shoot", true);
-            Instantiate(bullet, new Vector2(gameObject.transform.position.x + 0.91f, gameObject.transform.position.y - 0.28f), Quaternion.identity);
-
+            //Instantiate(bullet1,transform.position, Quaternion.identity);
+            if (gameObject.transform.localScale.x > 0)
+            {
+                GameObject a1 = Instantiate(bullet1, new Vector2(gameObject.transform.position.x + 0.91f, gameObject.transform.position.y - 0.28f), Quaternion.identity);
+                a1.GetComponent<GunBul2>().Shoot(1);
+            }
+            else
+            {
+                GameObject a1 = Instantiate(bullet1, new Vector2(gameObject.transform.position.x + 0.91f, gameObject.transform.position.y - 0.28f), Quaternion.identity);
+                a1.GetComponent<GunBul2>().Shoot(-1);
+            }
         }
         //PlayerJoystick();
         Debug.DrawLine(startSight.position, endSight.position, Color.red);
@@ -69,8 +82,9 @@ public class playercontroller : MonoBehaviour
     void Attack()
     {
         numberBullet--;
-        if (gameObject.transform.localScale.x == 1)
+        if (gameObject.transform.localScale.x > 0)
         {
+          
             GameObject body = Instantiate(bullet, transform.position, Quaternion.Euler(new Vector3(0, 0, 0)));
             body.GetComponent<bulletGun>().Shoot(1);
         }

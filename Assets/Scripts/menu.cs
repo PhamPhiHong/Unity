@@ -9,7 +9,7 @@ public class menu : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("SampleScene 2");
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -5,7 +5,11 @@ using UnityEngine;
 public class enemyGround : MonoBehaviour
 {
 
+    //[SerializeField]
+    //Transform player;
 
+    //[SerializeField]
+    //float argoRange;
  
     //private Transform startPos, endPos;
 
@@ -19,13 +23,18 @@ public class enemyGround : MonoBehaviour
 
     private Rigidbody2D myBody;
 
+    public GameObject pausePannel;
+    //private Gamemaster a;
+
     [SerializeField]
     private GameObject effect;
-   
 
+    public Gamemaster gm;
     void Awake()
     {
+        //a = GetComponent<Gamemaster>();
         myBody = GetComponent<Rigidbody2D>();
+        gm = GameObject.FindGameObjectWithTag("Gamemaster").GetComponent<Gamemaster>();
     }
     // Start is called before the first frame update
     void Start()
@@ -37,12 +46,16 @@ public class enemyGround : MonoBehaviour
     void FixedUpdate()
     {
         Move();
+        //float distToPlayer = Vector2.Distance(transform.position, player.position);
+       
         //ChangDirection();
     }
+ 
     void Move()
     {
         myBody.velocity = new Vector2(transform.localScale.x, 0) * -speed;
     }
+   
 
     //void ChangDirection()
     //{
@@ -67,17 +80,25 @@ public class enemyGround : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D target)
     {
-        if (target.tag == "Player")
-        { 
-            Destroy(target.gameObject); 
+        if (target.tag == "Sw")
+        {
+            gm.points += 1;
+            Destroy(this.gameObject);
+            Destroy(Instantiate(effect, transform.position, this.transform.rotation), 2);
         }
+        if (target.tag == "Player")
+        {
+            Destroy(target.gameObject);
 
-
+            pausePannel.SetActive(true);
+        }
         if (target.tag == "GunBullet")
         {
+            gm.points += 1;
             Destroy(gameObject);
             Destroy(Instantiate(effect, transform.position, this.transform.rotation),2);
-        }    
+        }
+       
 
     }
 }

@@ -6,6 +6,7 @@ public class coin : MonoBehaviour
 {
 
     public Gamemaster gm;
+    public GameObject floatingPoints;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,13 +16,14 @@ public class coin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+            
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
         if(col.tag == "Player")
         {
+            Instantiate(floatingPoints,transform.position,Quaternion.identity);
             Destroy(this.gameObject);
             gm.points += 1;
         }    

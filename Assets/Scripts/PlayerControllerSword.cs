@@ -8,7 +8,7 @@ public class PlayerControllerSword : MonoBehaviour
     public float MaxVelocity = 5f;
     public float Jumpforce = 220f;
     public bool grounded = true;
-    public AudioSource audioSource;
+    //public AudioSource audioSource;
     //public AudioClip AudioJump;
     //public AudioClip AudioHit;
 
@@ -16,6 +16,9 @@ public class PlayerControllerSword : MonoBehaviour
     private Animator anim;
 
     public SpriteRenderer rend;
+
+    [SerializeField]
+    private GameObject Sword;
 
     //private bool moveLeft = false;
     //private bool moveRight = false;
@@ -25,7 +28,7 @@ public class PlayerControllerSword : MonoBehaviour
     {
         mybody = GetComponent<Rigidbody2D>();
         rend = GetComponent<SpriteRenderer>();
-        audioSource = GetComponent<AudioSource>();
+        //audioSource = GetComponent<AudioSource>();
     }
     // Start is called before the first frame update
     void Start()
@@ -50,6 +53,17 @@ public class PlayerControllerSword : MonoBehaviour
                 
             }
         }
+        if (Input.GetKey("z"))
+        {
+
+            //audioSource.PlayOneShot(AudioHit);
+            Destroy(Instantiate(Sword, new Vector2(transform.position.x + 0.57f, transform.position.y), Quaternion.identity), 1f);
+            anim.SetBool("Hit", true);
+        }
+        else
+        {
+            anim.SetBool("Hit", false);
+        }
 
         //PlayerJoystick();
 
@@ -72,8 +86,8 @@ public class PlayerControllerSword : MonoBehaviour
             {
                 temp.x = 1f;
                 forceX = MoveForce;
-                audioSource.mute = false;
-                audioSource.Play();
+                //audioSource.mute = false;
+                //audioSource.Play();
                 anim.SetBool("Move", true);
                
 
@@ -83,8 +97,8 @@ public class PlayerControllerSword : MonoBehaviour
             {
                 temp.x = -1f;
                 forceX = -MoveForce;
-                audioSource.mute = false;
-                audioSource.Play();
+                //audioSource.mute = false;
+                //audioSource.Play();
                 anim.SetBool("Move", true);
                
 
@@ -98,16 +112,7 @@ public class PlayerControllerSword : MonoBehaviour
         }
 
         
-        if (Input.GetKey("z"))
-        {
-
-            //audioSource.PlayOneShot(AudioHit);
-            anim.SetBool("Hit", true);
-        }
-        else
-        {
-            anim.SetBool("Hit", false);
-        }
+       
         mybody.AddForce(new Vector2(forceX, forceY));
     }
 
@@ -132,7 +137,7 @@ public class PlayerControllerSword : MonoBehaviour
      void OnTriggerExit2D(Collider2D collision)
     {
        
-            grounded = false;
+            //grounded = false;
         
     }
 
@@ -142,21 +147,21 @@ public class PlayerControllerSword : MonoBehaviour
         Destroy(gameObject);
     }
 
-    IEnumerator Faded()
-    {
-        for (float f = 1f; f > -0.05f; f -= 0.05f)
-        {
-            Color color = rend.material.color;
-            color.a = f;
-            rend.material.color = color;
-            yield return new WaitForSeconds(0.05f);
-        }
-    }
+    //IEnumerator Faded()
+    //{
+    //    for (float f = 1f; f > -0.05f; f -= 0.05f)
+    //    {
+    //        Color color = rend.material.color;
+    //        color.a = f;
+    //        rend.material.color = color;
+    //        yield return new WaitForSeconds(0.05f);
+    //    }
+    //}
 
-    public void StartFading()
-    {
-        StartCoroutine(Faded());
-    }
+    //public void StartFading()
+    //{
+    //    StartCoroutine(Faded());
+    //}
 
 
     //void PlayerJoystick()

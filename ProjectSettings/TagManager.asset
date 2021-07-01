@@ -12,6 +12,7 @@ TagManager:
   - Boss
   - Coin
   - Gamemaster
+  - Sw
   layers:
   - Default
   - TransparentFX

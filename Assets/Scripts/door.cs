@@ -32,7 +32,7 @@ public class door : MonoBehaviour
     {
         anim.Play("open");
         yield return new WaitForSeconds(0.8f);
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Scene2");
     }
 
 
